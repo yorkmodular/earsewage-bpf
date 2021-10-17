@@ -1,0 +1,20 @@
+Reference, Quantity, Value,Notes
+ATT1 ATT2 ATT3 ATT4 ,4,10k,Alpha 9mm or compatible footprint
+C10 C11 C12 C13 C14 C15 C18 C19 ,8,100n,
+C16 C17 ,2,10u,5x2.5mm – 25V electrolytic
+C1 C2 C6 ,3,100n,Film capacitor
+C3 C7 ,2,47n,Film capacitor
+C4 C8 ,2,33n,Film capacitor
+C5 C9 ,2,10n,Film capacitor
+CUT1 CUT2 CUT3 CUT4 ,4,B1M,Alpha 9mm or compatible footprint
+GAIN1 ,1,A100k,Alpha 9mm or compatible footprint
+J1 J2 ,2,PJ301M-12,
+J3 ,1,EURO_PWR_2x5,
+R10 ,1,10k,
+R12 ,1,1k,
+R13 R14 R15 R16 R17 R18 ,6,22R,
+R1 R2 R3 R4 ,4,100R,
+R5 R6 R7 R8 R9 R11 ,6,10k,
+RES1 RES2 RES3 RES4 ,4,B1k,Alpha 9mm or compatible footprint – can also use 2k or 5k
+U1 U2 ,2,TL074,TL084 also works
+U3 ,1,TL072,TL082 also works
